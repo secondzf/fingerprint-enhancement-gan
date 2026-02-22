@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+*.log
+*.env
+# 如果有大文件或结果目录，忽略它们
+result/
+autodl-tmp/
